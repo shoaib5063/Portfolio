@@ -2,7 +2,7 @@ export const educations = [
   {
     id: 1,
     title: "B.Sc in Computer Science and Engineering",
-    duration: "2021 - 2026",
+    duration: "2022 - 2026",
     institution: "BRAC University, Dhaka, Bangladesh",
   },
   {
