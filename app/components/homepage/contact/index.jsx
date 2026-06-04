@@ -5,7 +5,7 @@ import { BiLogoLinkedin } from "react-icons/bi";
 import { CiLocationOn } from "react-icons/ci";
 import { FaFacebook, FaStackOverflow } from 'react-icons/fa';
 
-import { IoLogoGithub, IoMdCall } from "react-icons/io";
+import { IoLogoGithub } from "react-icons/io";
 import { MdAlternateEmail } from "react-icons/md";
 import ContactForm from './contact-form';
 
@@ -28,15 +28,6 @@ function ContactSection() {
                 size={36}
               />
               <span>{personalData.email}</span>
-            </p>
-            <p className="text-sm md:text-xl flex items-center gap-3">
-              <IoMdCall
-                className="bg-[#0b1a13] p-2 rounded-full hover:bg-[#00ff88] hover:scale-110 transition-all duration-300 text-gray-400 cursor-pointer"
-                size={36}
-              />
-              <span>
-                {personalData.phone}
-              </span>
             </p>
             <p className="text-sm md:text-xl flex items-center gap-3">
               <CiLocationOn

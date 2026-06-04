@@ -8,7 +8,7 @@ export const experiences = [
   {
     id: 2,
     title: "Student Member",
-    company: "BRAC University Computer Club",
-    duration: "(2021 - Present)"
+    company: "IEEE BRACU Student branch",
+    duration: "(2023 - 2025)"
   },
 ]
