@@ -11,10 +11,5 @@ export const educations = [
     duration: "2018 - 2020",
     institution: "Notre Dame College, Dhaka, Bangladesh",
   },
-  {
-    id: 3,
-    title: "Secondary School Certificate (S.S.C.) — GPA: 5.0 (A+)",
-    duration: "2016 - 2018",
-    institution: "Rajarhat Pilot High School, Kurigram, Bangladesh",
-  }
+
 ]

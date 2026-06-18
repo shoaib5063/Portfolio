@@ -6,7 +6,7 @@ export const projectsData = [
         tools: ['JavaScript', 'React', 'CSS', 'MongoDB', 'Express.js', 'Node.js'],
         role: 'Full Stack Developer',
         code: 'https://github.com/shoaib5063/MindfulMeal',
-        demo: 'https://471client.vercel.app/',
+        demo: 'https://mindfulmealsbd.vercel.app/',
     },
     {
         id: 2,
