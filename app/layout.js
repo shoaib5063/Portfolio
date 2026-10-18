@@ -11,9 +11,9 @@ import "./css/globals.scss";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Portfolio of Shoaib Ahmed - CSE Student & ML Enthusiast",
+  title: "Portfolio of Shoaib Ahmed - Machine Learning Engineer",
   description:
-    "This is the portfolio of Shoaib Ahmed, a CSE student at BRAC University specializing in Machine Learning, Deep Learning, and Full Stack Web Development. Explore my projects, skills, and experiences.",
+    "This is the portfolio of Shoaib Ahmed, Machine Learning Engineer at Micromact Techno Valley Ltd. Specializing in Machine Learning, Deep Learning, and Full Stack Web Development. Explore my projects, skills, and experiences.",
 };
 
 export default function RootLayout({ children }) {
