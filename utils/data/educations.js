@@ -8,7 +8,7 @@ export const educations = [
   {
     id: 2,
     title: "Higher Secondary Certificate (H.S.C.) — GPA: 5.0 (A+)",
-    duration: "2018 - 2020",
+    duration: "2019 - 2021",
     institution: "Notre Dame College, Dhaka, Bangladesh",
   },
 
